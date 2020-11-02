@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'VuePress Blog Example',
-  description: 'A blog powered by VuePress',
+  title: 'JIFFY ZHANG',
+  description: "We're Software Engineer,we work for money.But most importantly,we work for future.",
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
   themeConfig: {
     /**
@@ -31,16 +31,16 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/newsbielt703"
+          link: "https://github.com/jiffyzhang"
         },
         {
           type: "mail",
-          link: "mailto:newsbielt703@gmail.com"
+          link: "mailto:jiffyzhang@qq.com"
         }
       ],
       copyright: [
         {
-          text: "Billy Chin © 2020",
+          text: "Jiffy Zhang © 2020-present",
           link: ""
         }
       ]
